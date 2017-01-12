@@ -4,5 +4,6 @@
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="14" />
   </component>
 </application>

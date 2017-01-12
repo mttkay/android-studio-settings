@@ -1,0 +1,7 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker" type="docker">
+      <configuration />
+    </remote-server>
+  </component>
+</application>

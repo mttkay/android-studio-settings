@@ -1,117 +1,6 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Android API 22 Platform" />
-      <type value="Android SDK" />
-      <homePath value="/usr/local/opt/android-sdk" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="jar:///usr/local/opt/android-sdk/platforms/android-22/android.jar!/" />
-            <root type="simple" url="file:///usr/local/opt/android-sdk/platforms/android-22/data/res" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root type="simple" url="file:///usr/local/opt/android-sdk/docs/reference" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional jdk="1.8" sdk="android-22" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 23 Platform" />
-      <type value="Android SDK" />
-      <version value="java version &quot;1.8.0_66&quot;" />
-      <homePath value="/usr/local/opt/android-sdk" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="jar:///usr/local/opt/android-sdk/platforms/android-23/android.jar!/" />
-            <root type="simple" url="file:///usr/local/opt/android-sdk/platforms/android-23/data/res" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root type="simple" url="file:///usr/local/opt/android-sdk/docs/reference" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root type="simple" url="file:///usr/local/opt/android-sdk/sources/android-23" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional jdk="1.8" sdk="android-23" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 23, N preview Platform" />
-      <type value="Android SDK" />
-      <homePath value="/usr/local/opt/android-sdk" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="jar:///usr/local/opt/android-sdk/platforms/android-N/android.jar!/" />
-            <root type="simple" url="file:///usr/local/opt/android-sdk/platforms/android-N/data/res" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root type="simple" url="file:///usr/local/opt/android-sdk/docs/reference" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional jdk="1.8" sdk="android-N" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 24 Platform" />
-      <type value="Android SDK" />
-      <homePath value="/usr/local/opt/android-sdk" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="jar:///usr/local/opt/android-sdk/platforms/android-24/android.jar!/" />
-            <root type="simple" url="file:///usr/local/opt/android-sdk/platforms/android-24/data/res" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root type="simple" url="file:///usr/local/opt/android-sdk/docs/reference" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional jdk="1.8" sdk="android-24" />
-    </jdk>
-    <jdk version="2">
       <name value="1.8" />
       <type value="JavaSDK" />
       <version value="java version &quot;1.8.0_66&quot;" />
@@ -161,6 +50,56 @@
           <root type="composite">
             <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/" />
             <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Go 1.6" />
+      <type value="Go SDK" />
+      <version value="1.6" />
+      <homePath value="/usr/local/Cellar/go/1.6/libexec" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/go/1.6/libexec/src" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/go/1.6/libexec/src" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Go 1.6.2" />
+      <type value="Go SDK" />
+      <version value="1.6.2" />
+      <homePath value="/usr/local/Cellar/go/1.6.2/libexec" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/go/1.6.2/libexec/src" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/go/1.6.2/libexec/src" />
           </root>
         </sourcePath>
       </roots>
