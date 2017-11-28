@@ -1,5 +1,5 @@
 <scheme name="Kombat" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
@@ -212,6 +212,11 @@
         <option name="FOREGROUND" value="a7a7d1" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
         <option name="FOREGROUND" value="f08080" />
@@ -271,6 +276,11 @@
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="99968b" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="f6f3e8" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -441,6 +451,12 @@
         <option name="FOREGROUND" value="f6f3e8" />
       </value>
     </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="7a7a7a" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cae682" />
@@ -465,6 +481,12 @@
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value>
         <option name="FOREGROUND" value="8ac6f2" />
+      </value>
+    </option>
+    <option name="KOTLIN_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="8ac6f2" />
+        <option name="BACKGROUND" value="242424" />
       </value>
     </option>
     <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
