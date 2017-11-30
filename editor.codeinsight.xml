@@ -5,6 +5,6 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
   <component name="JavaCodeFoldingSettings">
-    <option name="COLLAPSE_ONE_LINE_METHODS" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
   </component>
 </application>
