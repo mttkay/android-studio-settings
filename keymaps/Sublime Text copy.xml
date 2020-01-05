@@ -11,10 +11,14 @@
   <action id="Diff.ShowDiff" />
   <action id="EditSourceInNewWindow" />
   <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorCloneCaretAbove" />
+  <action id="EditorCloneCaretBelow" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="EditorDuplicate" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
   <action id="ExportToTextFile" />
   <action id="ExtractFunction" />
   <action id="ExtractMethod" />
@@ -30,6 +34,13 @@
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoLine" />
+  <action id="IncrementWindowHeight" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
@@ -56,6 +67,7 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
+  <action id="ResizeToolWindowDown" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
