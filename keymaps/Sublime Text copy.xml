@@ -1,0 +1,6 @@
+<keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="ContextHelp" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+</keymap>

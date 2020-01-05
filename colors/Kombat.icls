@@ -1,9 +1,7 @@
 <scheme name="Kombat" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monaco" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
