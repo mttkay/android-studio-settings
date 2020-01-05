@@ -1,7 +1,4 @@
 <keymap version="1" name="Sublime Text copy" parent="Sublime Text">
-  <action id="$LRU">
-    <keyboard-shortcut first-keystroke="alt e" />
-  </action>
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
@@ -13,9 +10,6 @@
   <action id="Debug" />
   <action id="Diff.ShowDiff" />
   <action id="EditSourceInNewWindow" />
-  <action id="Editor LRU">
-    <keyboard-shortcut first-keystroke="alt e" />
-  </action>
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -56,6 +50,9 @@
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
