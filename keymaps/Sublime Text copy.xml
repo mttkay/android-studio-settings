@@ -2,20 +2,41 @@
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="ContextHelp" />
+  <action id="Debug" />
   <action id="Diff.ShowDiff" />
   <action id="EditSourceInNewWindow" />
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="EditorAddOrRemoveCaret" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="ExportToTextFile" />
+  <action id="ExtractFunction" />
+  <action id="ExtractMethod" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder" />
+  <action id="FileStructurePopup" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
   <action id="GotoLine" />
+  <action id="MethodHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
@@ -25,7 +46,7 @@
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="OptimizeImports">
-    <keyboard-shortcut first-keystroke="shift alt o" />
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="ctrl o" />
@@ -36,6 +57,13 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
@@ -45,6 +73,7 @@
   <action id="WelcomeScreen.Settings">
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
+  <action id="XDebugger.AttachToProcess" />
   <action id="openAssertEqualsDiff" />
   <action id="tasks.goto" />
   <action id="tasks.open.in.browser" />
