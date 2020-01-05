@@ -20,7 +20,9 @@
   <action id="ExtractMethod" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder" />
-  <action id="FileStructurePopup" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control alt button1" />
   </action>
@@ -28,9 +30,6 @@
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoLine" />
-  <action id="MethodHierarchy">
-    <keyboard-shortcut first-keystroke="ctrl alt m" />
-  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
