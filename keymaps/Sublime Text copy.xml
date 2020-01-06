@@ -78,10 +78,17 @@
   <action id="SendEOF" />
   <action id="ShowFilePath" />
   <action id="StartStopMacroRecording" />
+  <action id="UpdateRunningApplication" />
   <action id="WelcomeScreen.Settings">
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
   <action id="XDebugger.AttachToProcess" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
   <action id="openAssertEqualsDiff" />
   <action id="tasks.goto" />
   <action id="tasks.open.in.browser" />
