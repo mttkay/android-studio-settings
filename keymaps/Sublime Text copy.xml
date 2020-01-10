@@ -43,6 +43,7 @@
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="NewElementSamePlace" />
   <action id="NewScratchFile" />
