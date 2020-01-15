@@ -1,4 +1,7 @@
 <keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="altGraph open_bracket" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
@@ -28,6 +31,9 @@
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="altGraph close_bracket" />
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -88,6 +94,7 @@
   <action id="UpdateRunningApplication" />
   <action id="WelcomeScreen.Settings">
     <keyboard-shortcut first-keystroke="alt period" />
+    <keyboard-shortcut first-keystroke="altGraph period" />
   </action>
   <action id="XDebugger.AttachToProcess" />
   <action id="android.deploy.ApplyChanges">
