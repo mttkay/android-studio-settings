@@ -2,6 +2,9 @@
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="ActivateBuildToolWindow">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="altGraph open_bracket" />
   </action>
