@@ -1,4 +1,7 @@
 <keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="altGraph open_bracket" />
   </action>
@@ -14,6 +17,9 @@
   <action id="Debug" />
   <action id="Diff.ShowDiff" />
   <action id="EditSourceInNewWindow" />
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorCloneCaretAbove" />
   <action id="EditorCloneCaretBelow" />
@@ -32,6 +38,9 @@
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="EditorNextWordInDifferentHumpsMode" />
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
   <action id="EditorPreviousWordInDifferentHumpsMode" />
   <action id="ExportToTextFile" />
   <action id="ExtractFunction" />
