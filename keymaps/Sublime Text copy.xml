@@ -23,6 +23,16 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsMode" />
+  <action id="EditorPreviousWordInDifferentHumpsMode" />
   <action id="ExportToTextFile" />
   <action id="ExtractFunction" />
   <action id="ExtractMethod" />
