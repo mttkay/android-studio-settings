@@ -54,8 +54,9 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="altGraph close_bracket" />
   </action>
+  <action id="GotoAction" />
   <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control alt button1" />
@@ -84,9 +85,7 @@
   </action>
   <action id="NewElementSamePlace" />
   <action id="NewScratchFile" />
-  <action id="OpenFile">
-    <keyboard-shortcut first-keystroke="alt o" />
-  </action>
+  <action id="OpenFile" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
