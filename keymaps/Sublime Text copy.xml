@@ -79,6 +79,12 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
     <keyboard-shortcut first-keystroke="ctrl n" />
