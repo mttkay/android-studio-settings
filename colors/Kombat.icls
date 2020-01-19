@@ -487,6 +487,10 @@
         <option name="BACKGROUND" value="242424" />
       </value>
     </option>
+    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
+    <option name="KOTLIN_NAMED_ARGUMENT">
+      <value />
+    </option>
     <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="93a2cc" />
