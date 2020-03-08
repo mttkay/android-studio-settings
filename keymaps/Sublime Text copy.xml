@@ -54,7 +54,9 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="altGraph close_bracket" />
   </action>
-  <action id="GotoAction" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift alt a" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
@@ -125,6 +127,8 @@
   <action id="ShowFilePath" />
   <action id="StartStopMacroRecording" />
   <action id="UpdateRunningApplication" />
+  <action id="Vcs.Log.ShowAllAffected" />
+  <action id="VcsHistory.ShowAllAffected" />
   <action id="WelcomeScreen.Settings">
     <keyboard-shortcut first-keystroke="alt period" />
     <keyboard-shortcut first-keystroke="altGraph period" />
