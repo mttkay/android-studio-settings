@@ -63,7 +63,9 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control alt button1" />
   </action>
-  <action id="GotoFile" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift alt o" />
+  </action>
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control button1" />
   </action>
@@ -124,9 +126,7 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="SendEOF" />
-  <action id="ShowFilePath">
-    <keyboard-shortcut first-keystroke="shift alt o" />
-  </action>
+  <action id="ShowFilePath" />
   <action id="StartStopMacroRecording" />
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.ShowAllAffected" />
