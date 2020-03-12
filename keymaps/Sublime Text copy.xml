@@ -124,7 +124,9 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="SendEOF" />
-  <action id="ShowFilePath" />
+  <action id="ShowFilePath">
+    <keyboard-shortcut first-keystroke="shift alt o" />
+  </action>
   <action id="StartStopMacroRecording" />
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.ShowAllAffected" />
