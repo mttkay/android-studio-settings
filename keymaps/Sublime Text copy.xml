@@ -80,6 +80,9 @@
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="Move">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
