@@ -68,6 +68,7 @@
   </action>
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="GotoLine" />
   <action id="GotoTest">
@@ -75,10 +76,10 @@
   </action>
   <action id="IncrementWindowHeight" />
   <action id="MakeGradleModule">
-    <keyboard-shortcut first-keystroke="alt b" />
+    <keyboard-shortcut first-keystroke="shift alt b" />
   </action>
   <action id="MakeModule">
-    <keyboard-shortcut first-keystroke="alt b" />
+    <keyboard-shortcut first-keystroke="shift alt b" />
   </action>
   <action id="Move">
     <keyboard-shortcut first-keystroke="f6" />
