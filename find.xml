@@ -12,6 +12,7 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.json</mask>
     <mask>*.kt</mask>
   </component>
 </application>
