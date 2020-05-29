@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="ObjectiveC" />
+      <language id="kotlin" />
+      <language id="Groovy" />
+    </disabledLanguages>
+  </component>
+</application>
