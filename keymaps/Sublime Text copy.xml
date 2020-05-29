@@ -2,6 +2,9 @@
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="altGraph open_bracket" />
   </action>
@@ -30,6 +33,7 @@
   <action id="EditorCloneCaretBelow" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl back_space" />
+    <keyboard-shortcut first-keystroke="alt back_space" />
   </action>
   <action id="EditorDeleteToWordStart" />
   <action id="EditorDuplicate">
