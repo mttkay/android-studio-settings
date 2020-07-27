@@ -144,6 +144,9 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
