@@ -3,6 +3,7 @@
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="DISABLE_MNEMONICS" value="true" />
     <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
   </component>
 </application>
