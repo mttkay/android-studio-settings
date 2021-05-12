@@ -151,6 +151,7 @@
   <action id="SendEOF" />
   <action id="ShowFilePath" />
   <action id="StartStopMacroRecording" />
+  <action id="ToggleFindInSelection" />
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.ShowAllAffected" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
