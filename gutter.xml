@@ -1,0 +1,32 @@
+<application>
+  <component name="LineMarkerSettings">
+    <option name="providers">
+      <map>
+        <entry key="RenderedDoc" value="true" />
+        <entry key="com.android.tools.idea.compose.annotator.ComposePreviewPickerAnnotator" value="true" />
+        <entry key="com.intellij.codeInsight.ExternalAnnotationLineMarkerProvider" value="true" />
+        <entry key="com.intellij.codeInsight.InferredContractAnnotationsLineMarkerProvider" value="false" />
+        <entry key="com.intellij.codeInsight.InferredNullabilityAnnotationsLineMarkerProvider" value="true" />
+        <entry key="com.intellij.codeInsight.daemon.impl.IconLineMarkerProvider" value="true" />
+        <entry key="com.intellij.codeInsight.daemon.impl.RecursiveCallLineMarkerProvider" value="true" />
+        <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />
+        <entry key="com.intellij.ui.ColorLineMarkerProvider" value="true" />
+        <entry key="java.implemented" value="true" />
+        <entry key="java.implementing" value="true" />
+        <entry key="java.lambda" value="false" />
+        <entry key="java.overridden" value="true" />
+        <entry key="java.overriding" value="true" />
+        <entry key="java.service" value="true" />
+        <entry key="java.sibling.inherited" value="true" />
+        <entry key="kotlin.actual" value="true" />
+        <entry key="kotlin.dsl" value="true" />
+        <entry key="kotlin.expect" value="true" />
+        <entry key="kotlin.implemented" value="true" />
+        <entry key="kotlin.implementing" value="true" />
+        <entry key="kotlin.overridden" value="true" />
+        <entry key="kotlin.overriding" value="true" />
+        <entry key="org.editorconfig.configmanagement.editor.EditorConfigPreviewMarkerProvider" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
