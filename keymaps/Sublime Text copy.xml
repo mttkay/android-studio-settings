@@ -164,7 +164,11 @@
   <action id="ToggleBookmark7" />
   <action id="ToggleBookmark8" />
   <action id="ToggleBookmark9" />
+  <action id="ToggleDistractionFreeMode" />
   <action id="ToggleFindInSelection" />
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.ShowAllAffected" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
