@@ -13,6 +13,7 @@
   </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="altGraph open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="ChangesView.Move" />
