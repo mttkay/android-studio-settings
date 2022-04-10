@@ -12,7 +12,6 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="Back">
-    <keyboard-shortcut first-keystroke="altGraph open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="ChangesView.GroupBy.Directory" />
@@ -99,7 +98,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt m" />
   </action>
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="altGraph close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift alt a" />
@@ -119,7 +118,6 @@
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
   <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="shift alt m" />
     <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
   <action id="GotoTest">
