@@ -1,0 +1,17 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="b2633ed7" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A3003" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
